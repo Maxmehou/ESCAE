@@ -1,0 +1,98 @@
+.class1{
+    display: flex;
+    text-align: center;
+    background-color: 4px 8px 8px;
+}
+
+.class2{
+    list-style-type: none;
+    display: flex;
+    margin: 1%;
+    padding: 1%;
+    box-shadow: 4px 8px 8px rgba( 0, 0, 0, 0.5);
+    border-radius: 10px;
+    background-color: beige;
+    justify-content: center;
+    
+}
+
+body{
+    font-family: serif;
+    background-color: rgb(250, 250, 221);
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+li{
+    display: inline;
+    margin: 30px;
+}
+a{
+    text-decoration: solid;
+    color: black;
+}
+
+.class3{
+    font-size: 80px;
+    font-weight: normal;
+    margin: 0;
+    padding: 2;
+    color: chocolate;
+}
+
+.class4{
+    width: 700px;
+    height: 700px;
+    margin: 2%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.class5{
+    width: 900px;
+    height: 900px;
+    margin: 2%;
+    font-size: 20px;
+    padding: 2%;
+}
+
+.class11{
+    padding: 1%;
+    background-color: rgb(233, 210, 117);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 1%;
+    max-width: 800%;
+    width: 1500px;
+    height: 1500px;
+    gap: 20px;
+    box-shadow: 10px 10px 10px;
+
+}
+
+.class6{
+    width: 900px;
+    height: 900px;
+    margin: 2%;
+    font-size: 20px;
+    padding: 2%;
+}
+
+.class8{
+    margin: 2%;
+}
+img{
+    width: 30%;
+    align-self: center;
+}
+.class10{
+    position: static;
+    bottom: 20px;
+    right: 20px;
+    font-size: 40px;
+    color: black;
+}
